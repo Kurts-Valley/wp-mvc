@@ -36,18 +36,18 @@ From a sibling starter (this kit layout):
 ]
 ```
 
-### VCS (after you push this package to GitHub)
+### VCS (GitHub)
 
 ```json
 "repositories": [
   {
     "type": "vcs",
-    "url": "https://github.com/YOUR_USER/wp-mvc.git"
+    "url": "https://github.com/Kurts-Valley/wp-mvc.git"
   }
 ]
 ```
 
-Then tag releases (`v1.0.0`) and run `composer update kurtcampbell/wp-mvc`.
+Tag releases (`v1.0.0`) and run `composer update kurtcampbell/wp-mvc`.
 
 ## Boot sequence
 
